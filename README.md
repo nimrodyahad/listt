@@ -1,8 +1,3 @@
-# .org
-The official website for thefreemavens.org
-___
-
-Good things are going to happen.
-
+The official website for listt.me
 
 
